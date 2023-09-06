@@ -23,4 +23,4 @@ Simplify your reading with Summize, an open-source article summarizer that trans
 **Steps to run:**
   1) Clone the repo using the command ***git clone https://github.com/shreejeshballal/Sumz.git*** or download as zip file and extract.
   2) Open the folder and type the command **npm i** in the command line.
-  3) Then use the commmand **npm run dev** to locally run the application.
+  3) Then run the command **npm run dev** in the terminal to locally run the application.
