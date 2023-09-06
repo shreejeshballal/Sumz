@@ -16,7 +16,8 @@ Simplify your reading with Summize, an open-source article summarizer that trans
   6) RTK Query
   7) Netlify
 
-**Screenshots:**
+**Screenshots:** 
+
 ![Screenshot 2023-09-06 154738](https://github.com/shreejeshballal/Sumz/assets/77494639/22034469-b202-4b3a-9e5e-1cd392e17c47)
 ![Screenshot 2023-09-06 154758](https://github.com/shreejeshballal/Sumz/assets/77494639/9df6b165-0b84-4345-ab8f-03ad58caae96)
 
