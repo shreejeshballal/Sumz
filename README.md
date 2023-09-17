@@ -35,6 +35,6 @@ Summize is an open-source article summarizer that transforms lengthy articles in
 
 🚀 Start simplifying your reading today with Summize! Visit our live demo at https://sumzintelliai.netlify.app/
  
-Made with ❤️ by Shreejesh J Ballal 
+Made with ❤️ by Shreejesh J Ballal.
 
 Reference - https://www.youtube.com/watch?v=vpvtZZi5ZWk&t=408s By Javascript Mastery
