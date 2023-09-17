@@ -3,8 +3,11 @@ Summize is an open-source article summarizer that transforms lengthy articles in
 
 # Features ✨
 🌟 Modern UI/UX: Summize provides a sleek and user-friendly interface for easy navigation and readability.
+
 📚 Save User Search History: Summize allows users to save their search history, making it convenient to revisit previously summarized articles.
+
 🔧 Error Handling: Our application includes robust error handling to ensure a smooth user experience.
+
 📋 URL Copy to Clipboard: Easily copy the summarized article's URL to your clipboard for quick sharing.
 
 # Technologies Used 🛠️
